@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Deep learning projects**
 
-- 🤝 I’m looking for help with **CNN, RNN**
+- 🤝 I’m looking for help with **Unsupervised Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnshikaAnand222](https://github.com/AnshikaAnand222)
 
