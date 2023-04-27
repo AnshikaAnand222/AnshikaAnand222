@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshikaanand222" alt="anshikaanand222" /></a> </p>
 
-- 🔭 I’m currently working on **Speech Emotion Recognition**
+- 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Machine Learning, Deep learning**
+- 🌱 I’m currently learning **Docker, Kubernetes**
 
-- 👯 I’m looking to collaborate on **Deep learning projects**
+- 👯 I’m looking to collaborate on **Deep learning projects and AWS Cloud Projects**
 
-- 🤝 I’m looking for help with **Unsupervised Learning**
+- 🤝 I’m looking for help with **Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnshikaAnand222](https://github.com/AnshikaAnand222)
 
