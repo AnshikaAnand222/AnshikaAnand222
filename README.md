@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Deep Learning Algorithms**
+- 🌱 I’m currently learning **Deep Learning Concepts**
 
 - 👯 I’m looking to collaborate on **Deep learning projects and AWS Cloud Projects**
 
